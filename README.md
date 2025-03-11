@@ -39,7 +39,7 @@
 ## **Установка и запуск** 🛠  
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/ваш-логин/currency-converter.git
+   git clone [https://github.com/ваш-логин/currency-converter.git](https://github.com/Ibrohim-Tim/Currency-App.git)
 
 2. Откройте проект в Xcode:
    ```bash
