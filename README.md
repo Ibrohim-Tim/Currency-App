@@ -59,6 +59,8 @@
 
 **Второй экран (Single/Multiple режим):**
 
+![Demo of Currency Converter](https://github.com/Ibrohim-Tim/Currency-App/blob/main/ezgif.com-effects-2.gif?raw=true)
+
 ---
 
 ## **Почему этот проект интересен?** 🌟
