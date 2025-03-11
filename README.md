@@ -55,7 +55,7 @@
 ## **Пример использования** 📱
 **Главный экран:**
 
-![Demo of Currency Converter](https://github.com/Ibrohim-Tim/Currency-App/blob/main/giphy.gif?raw=true)
+![Demo of Currency Converter](https://github.com/Ibrohim-Tim/Currency-App/blob/main/ezgif.com-effects.gif?raw=true)
 
 **Второй экран (Single/Multiple режим):**
 
